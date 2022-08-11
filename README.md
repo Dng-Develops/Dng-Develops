@@ -78,6 +78,10 @@
       height="40"
     />
   </a>
+  <a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"
+      height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
     rel="noreferrer">

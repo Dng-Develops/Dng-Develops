@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Deniz</h1>
 <h3 align="center">A Passionate Fullstack Web Developer and Designer</h3>
 
-- 🔭 I’m currently working on [E-commerce app](https://github.com/Dng-Develops/E-commerce.NetCore-app)
+- 🔭 I’m currently working on [E-commerce app](https://github.com/Dng-Develops/E-commerce.NetCore.app)
 
 - 🌱 I’m currently learning **SOLID and Clean Architecture**
 

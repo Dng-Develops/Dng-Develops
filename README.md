@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-commerce app](https://github.com/Dng-Develops/E-commerce.NetCore.app)
 
-- 🌱 I’m currently learning **SOLID and Clean Architecture**
+- 🌱 I’m currently learning **SOLID and Clean Architecture** + **Data Structures And Algorithms**
 
 - 👨‍💻 All of my projects are available at [#(coming soon)](#(coming soon))
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SOLID and Clean Architecture** + **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at [#(coming soon)](#(coming soon))
+- 👨‍💻 Checkout my [#(My Portfolio)](#(https://dngdevelops.netlify.app/))
 
 - 💬 Ask me about **Anything you want 🤘**
 

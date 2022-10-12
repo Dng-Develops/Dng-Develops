@@ -101,6 +101,13 @@
       width="40"
       height="40"
     />
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png"
+      alt="postman"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
